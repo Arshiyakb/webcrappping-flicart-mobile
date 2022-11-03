@@ -13,7 +13,7 @@ scrapped information include:
 
 4. Rating
 
-5.Review
+5. Review
 
 6. Ram
 
