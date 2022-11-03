@@ -4,23 +4,27 @@ Flipcart is the E-commerce website.
 Webscrapping from this website to scrape best mobile phone under Rs.10,000 
 
 scrapped information include:
+name	price	star	color	rating	review	ram	rom	display	battery	bcamera	fcamera
 
-1.Product Name
+1. Name
 
-Product Star
+2. Price Star
 
-Product_rating
+3. Color 
 
-Product_review
+4. Rating
 
-Current Price
+5.Review
 
-MRP
+6. Ram
 
-Processor
+7. Rom
 
-Ram
+8. Display
 
-Storage
+9. Battery
 
-Image
+10. Back-Camera
+
+11. Front Camera
+
